@@ -17,7 +17,7 @@ import Judes from './components/JudesComponent.vue'
 <Toms />
 <Joes />
 <Nats />
-<Joys />
+<Joys hello/>
 <Judes />
 
 </template>
