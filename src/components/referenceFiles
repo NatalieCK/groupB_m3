@@ -1,0 +1,26 @@
+
+* BASIC SCRIPT *
+<script>
+ export default{
+        data(){
+            return{
+       
+            }
+        },
+        methods: {
+
+        }
+    }
+</script>
+
+* DEFINE PROPS *
+<script setup>
+
+defineProps({
+    SampleObject: {
+        type: Object,
+        required: true
+    }
+})
+
+</script>
