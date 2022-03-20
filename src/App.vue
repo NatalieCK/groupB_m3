@@ -24,4 +24,6 @@ import Judes from './components/JudesComponent.vue'
 
 <style>
 
+@import './assets/base.css/'
+
 </style>
